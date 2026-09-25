@@ -1,0 +1,6 @@
+{
+  "name": "Codigo Libertad - Survival Horror PS1",
+  "description": "Prototipo de survival horror con estetica PlayStation 1 desarrollado en Three.js con resolucion interna de 640x240.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
